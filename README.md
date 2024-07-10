@@ -3,7 +3,6 @@ hi! this is a skinhub inspired by another skinhub called [rc_hub](https://github
 ### ! **there are currently no plans on making this public, tho i might in the future?**
 in the process of learning github as well, so mind me if there are any issues :D
 
-<p align="center">
-<h2><b>↓ all skins ↓</b></h2>
+## **↓ all skins ↓**
 
 ### - 
