@@ -4,6 +4,6 @@ hi! this is a skinhub inspired by another skinhub called [rc_hub](https://github
 in the process of learning github as well, so mind me if there are any issues :D
 
 <p align="center">
-<b>## ↓ all skins ↓</b>
+## **↓ all skins ↓**
 
 ### - 
